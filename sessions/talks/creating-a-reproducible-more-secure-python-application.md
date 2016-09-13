@@ -4,8 +4,8 @@ speaker: tessa-alexander
 ---
 Introduce the python environment wrapper and packing tools; virtualenv & pip.
 
-Show you how you can stay up to date by using in requires.io egg security and update checking.
+Show you how you can stay up to date by using requires.io egg security and update checking.
 
 Cover Fabric a python deployment tool and wider systems and workflow replication with Vagrant and Reprozip.
 
-If time allowing touch upon test driven development and adding Travis to your project.
+If time allowing touch upon test driven development and making use of Travis CI in your project.
